@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e6f0fa;
+    color: #333;
+    text-align: center;
+}
+
+header{
+    background-color: #0077c8;
+    color: white;
+    padding: 20px;
+}
+
+h1{
+    margin: 0;
+}
+
+main{
+    padding: 0;
+}
+
+h2{
+    color: #005fa3;
+}
+
+
+.voltar-box{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.voltar-btn{
+    background-color: #0077c8;
+    color: white;
+    text-decoration: none;
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3;
+    display: inline-block;
+}
+
+.voltar-btn:hover{
+    background-color: #005fa3;
+}
